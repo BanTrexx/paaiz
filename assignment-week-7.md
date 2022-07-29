@@ -5,18 +5,18 @@ assignment week 5 Muhammad Faiz Satrio/Team Akusara
    - mkdir sekolah
    - mkdir kerja
 3. - cd sekolah
-   - nano ijazah.txt 
+   - nano ijazah.txt
    - Perkenalkan namaku paaiz
      Aku berasal dari Madiun
      Salam Kenal :D
    - cat ijazah.txt
    - nano portfolio.txt
-   - Saya pernah bekerja pada beberapa perusahaan salah satu 
+   - Saya pernah bekerja pada beberapa perusahaan salah satu
      diantaranya ialah
      - Microsoft
      - DOT
      - AWS
-4. cd..
+4. cd ..
 5. - cd kerja
    - nano cv.txt
    - Salam,
@@ -25,6 +25,6 @@ assignment week 5 Muhammad Faiz Satrio/Team Akusara
      - coding
      - coding
    - cat cv.txt
-6. - cd..
+6. - cd ..
    - cd sekolah
    - mv portfolio.txt /d/assignment-skilvul/paaiz/kerja
